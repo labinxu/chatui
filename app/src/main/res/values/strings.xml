@@ -255,4 +255,5 @@
     <!--labin added-->
     <string name="get_captcha">获取验证码</string>
     <string name="input_captcha">输入验证码</string>
+    <string name="input_phone_number">请输入手机号码</string>
 </resources>

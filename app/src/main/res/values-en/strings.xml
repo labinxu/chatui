@@ -255,4 +255,5 @@
     <!-- labin added-->
     <string name="get_captcha">Retrieve the captcha key</string>
     <string name="input_captcha">Input captcha</string>
+    <string name="input_phone_number">Please enter phone number</string>
 </resources>
